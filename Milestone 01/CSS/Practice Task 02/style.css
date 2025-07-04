@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+}
+.first-task{
+    margin: 25px;
+    padding: 20px;
+    text-align: justify;
+}
+.My-Self-heading{
+    text-decoration: underline;
+}
+.my-self-par{
+    margin-top: 20px;
+    text-wrap: normal;
+    font-size:15px;
+}
+.Second-task{
+    margin: 25px;
+    text-align: justify;
+    padding: 20px;
+}
+.my-school-life-heading{
+    text-decoration: underline;
+}
+.my-school-life-par{
+    margin-top: 15px;
+    text-wrap: normal;
+    font-size: 15px;
+    color: pink;
+}
+.Third-task{
+    margin: 25px;
+    text-align: justify;
+    padding: 20px;
+}
+.my-family-par{
+    margin-top: 20px;
+    padding: 15px;
+    text-wrap: normal;
+    font-size: 15px;
+    color: rgb(0,255,0);
+}
+.my-diploma-heading{
+    text-decoration: underline;
+}
+.my-diploma-par{
+    margin-top: 15px;
+    text-wrap: normal;
+    font-size: 15px;
+    color: rgb(225,225,0);
+}
+.underline-head{
+    text-decoration: underline;
+}
+
+.family-introduction{
+    text-align: justify;
+    margin: 25px;
+    padding: 20px;
+}
+
+.my-family-head{
+    text-decoration: underline;
+}
+
+.family-circle{
+    margin-top: 25px;
+    padding: 20px;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+    padding: 20px;
+    color: #FF0000;
+}
+.my-family-list-ul{
+    list-style: none;
+    margin: 15px;
+    padding: 5px;
+    text-align: justify;
+    font-size: 15px;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    color: rgb(0,0,255);
+}
+
+li{
+    color: tomato;
+}
+
+ol{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 20px;
+}
+
+.my-img-head{
+    text-decoration: underline;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.img-container{
+    background-image: url('img-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 400px;
+    margin: 25px;
+    padding: 20px;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+}
+
+.box-study{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    padding: 20px;
+    width: 250px;
+    height: 200px;
+    background-color: white;
+    border: 2px solid yellow;
+    margin: 50px;
+    box-shadow: 2px 4px red;
+}
+
+.div-inline{
+    display: inline;
+    margin: 25px;
+
+}
+
+.div-inline-block{
+    display: block;
+    font: 100px;
+}
+span{
+    display: block;
+}
+
+
