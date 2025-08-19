@@ -1,0 +1,39 @@
+🔹 Task 1: Background Color Changer
+
+একটি page এ ৪–৫টি বাটন থাকবে।
+
+প্রতিটা বাটনে ক্লিক করলে page background আলাদা রঙে পরিবর্তন হবে।
+
+Challenge: একটাই function ব্যবহার করে multiple buttons handle করা।
+
+🔹 Task 2: Counter Button
+
+একটি button থাকবে “Click Me!”
+
+প্রতিবার ক্লিক করলে number increase হবে এবং display হবে <p> ট্যাগে।
+
+Challenge: JS variable ব্যবহার করে counter store করা।
+
+🔹 Task 3: Show/Hide Text
+
+একটি button থাকবে “Show/Hide Info”
+
+একটি <p> text initially hidden।
+
+Button ক্লিক করলে text show হবে বা hide হবে toggle করে।
+
+🔹 Task 4: Random Quote Generator
+
+একটি button থাকবে “Generate Quote”
+
+একটি array তে ৫–৬টি quote থাকবে।
+
+Button ক্লিক করলে random quote <p> তে display হবে।
+
+🔹 Task 5: Change Font Size
+
+একটি paragraph থাকবে।
+
+৩টি button থাকবে: “Small”, “Medium”, “Large”
+
+Button ক্লিক করলে paragraph font size পরিবর্তন হবে।
